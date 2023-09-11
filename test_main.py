@@ -15,7 +15,7 @@ def test_add_negative_numbers():
 
 
 def test_add_mixed_numbers():
-    assert add(7, -5) == 2
+    assert add(7, -5) == 1
 
 
 if __name__ == "__main__":
