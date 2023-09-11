@@ -1,1 +1,2 @@
+[![CI](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/cicd.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/cicd.yml)
 # IDS706-Python-Template
