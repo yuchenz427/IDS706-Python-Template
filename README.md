@@ -1,4 +1,3 @@
-[![CI](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/cicd.yml/badge.svg)](https://github.com/yuchenz427/IDS706-Python-Template/actions/workflows/cicd.yml)
 # IDS706-Python-Template
 
 Python template repo for Fall 2023 IDS_706-Data Engineering Systems at Duke Univ. 
